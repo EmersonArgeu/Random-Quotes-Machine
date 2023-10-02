@@ -1,5 +1,5 @@
 <h1 align="center">
-  Random Quote Machine Free Code Camp
+  Random Quote Machine - Free Code Camp
 </h1>
 
 <p align="center">
